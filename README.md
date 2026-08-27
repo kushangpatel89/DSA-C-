@@ -1,2 +1,2 @@
-# DSA-C-
+# DSA-C++
 DSA Programing in C++
